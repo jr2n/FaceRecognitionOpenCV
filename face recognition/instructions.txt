@@ -1,0 +1,3 @@
+create dataset -> dataset creator script
+train the recognizer from the dataset -> trainer script
+detector -> detector script
